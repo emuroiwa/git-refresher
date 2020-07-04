@@ -1,5 +1,6 @@
-<?php 
+<?php
 
-	for ( $i = 0; $i>2; $i++ ){
-		echo $i;
-	}
+for ($i = 0; $i > 2; $i++) {
+	echo $i;
+}
+	//ernes
